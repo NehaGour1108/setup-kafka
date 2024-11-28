@@ -1,6 +1,15 @@
 # Setup-Kafka
 Setup Kafka locally
 
+# Producer
+
+<img width="764" alt="Screenshot 2024-11-28 at 11 32 34 PM" src="https://github.com/user-attachments/assets/57935570-7346-4242-bb4a-eadfda69c860">
+
+# Consumer
+
+<img width="994" alt="Screenshot 2024-11-28 at 11 32 15 PM" src="https://github.com/user-attachments/assets/ce04f2e6-e20b-4107-98b8-3d5da385d1d5">
+
+
 To run these commands, open a **terminal** window on your macOS or Linux machine, then navigate to the directory where you downloaded the Kafka `tar.gz` file. For example:
 
 1. **Open Terminal**: On macOS, you can open Terminal by going to `Applications > Utilities > Terminal`.
